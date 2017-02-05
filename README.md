@@ -9,7 +9,7 @@ HEIA-FR / Filière Télécommunications / IHM Interface Homme Machine (Man Machine 
 
 
 #### <i class="icon-folder-open"></i> Documents
-> - application : jar app file
+> - app : JAR application file
 > - code : java code and ressources
 > - doc : project documentation
 
