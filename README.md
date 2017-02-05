@@ -1,0 +1,2 @@
+# MineHuntJavaFX
+Minesweeper JavaFX game
